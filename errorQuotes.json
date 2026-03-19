@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Helen Keller",
+    "entryDate": -1401782400
+  },
+  {
+    "id": 2,
+    "text": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "entryDate": -1876104000
+  },
+  {
+    "id": 3,
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "entryDate": -1605571500
+  },
+  {
+    "id": 4,
+    "text": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "entryDate": -658677900
+  },
+  {
+    "id": 5,
+    "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb",
+    "entryDate": -1222689600
+  },
+  {
+    "id": 6,
+    "text": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "entryDate": -2506219800
+  },
+  {
+    "id": 7,
+    "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "author": "Ralph Waldo Emerson",
+    "entryDate": -2028448800
+  },
+  {
+    "id": 8,
+    "text": "It is during our darkest moments that we must focus to see the light.",
+    "author": "Aristotle",
+    "entryDate": -1798750500
+  },
+  {
+    "id": 9,
+    "text": "The only impossible journey is the one you never begin.",
+    "author": "Tony Robbins",
+    "entryDate": -442335000
+  },
+  {
+    "id": 10,
+    "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "entryDate": -1846598400
+  },
+  {
+    "id": 11,
+    "text": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "entryDate": -520543500
+  },
+  {
+    "id": 12,
+    "text": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford",
+    "entryDate": -2328931800
+  },
+  {
+    "id": 13,
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "entryDate": -206841600
+  },
+  {
+    "id": 14,
+    "text": "Your time is limited, don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "entryDate": -77038800
+  },
+  {
+    "id": 15,
+    "text": "If life were predictable it would cease to be life, and be without flavor.",
+    "author": "Eleanor Roosevelt",
+    "entryDate": -1548316500
+  },
+  {
+    "id": 16,
+    "text": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "entryDate": -1402110600
+  },
+  {
+    "id": 17,
+    "text": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "entryDate": -1875843000
+  },
+  {
+    "id": 18,
+    "text": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    "author": "Thomas Edison",
+    "entryDate": -2169936000
+  },
+  {
+    "id": 19,
+    "text": "The mind is everything. What you think you become.",
+    "author": "Buddha",
+    "entryDate": -1708300800
+  },
+  {
+    "id": 20,
+    "text": "Imagination is more important than knowledge.",
+    "author": "Albert Einstein",
+    "entryDate": -2208027900
+  },
+  {
+    "id": 21,
+    "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+    "author": "Helen Keller",
+    "entryDate": -1519387200
+  },
+  {
+    "id": 22,
+    "text": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "entryDate": -2028448800
+  },
+  {
+    "id": 23,
+    "text": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson",
+    "entryDate": -1943560500
+  },
+  {
+    "id": 24,
+    "text": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison",
+    "entryDate": -2452464000
+  },
+  {
+    "id": 25,
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "entryDate": -1675166700
+  },
+  {
+    "id": 26,
+    "text": "Everything you've ever wanted is on the other side of fear.",
+    "author": "George Addair",
+    "entryDate": -764730600
+  },
+  {
+    "id": 27,
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "entryDate": -2853427200
+  },
+  {
+    "id": 28,
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "entryDate": -1708386600
+  },
+  {
+    "id": 29,
+    "text": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "entryDate": -2902329600
+  },
+  {
+    "id": 30,
+    "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson",
+    "entryDate": -1774368300
+  },
+  {
+    "id": 31,
+    "text": "Change your thoughts and you change your world.",
+    "author": "Norman Vincent Peale",
+    "entryDate": -1517972700
+  },
+  {
+    "id": 32,
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "entryDate": -107928600
+  },
+  {
+    "id": 33,
+    "text": "If you look at what you have in life, you'll always have more.",
+    "author": "Oprah Winfrey",
+    "entryDate": -29725800
+  },
+  {
+    "id": 34,
+    "text": "Nothing is impossible, the word itself says I'm possible!",
+    "author": "Audrey Hepburn",
+    "entryDate": -347223600
+  },
+  {
+    "id": 35,
+    "text": "You will face many defeats in life, but never let yourself be defeated.",
+    "author": "Maya Angelou",
+    "entryDate": -205674000
+  },
+  {
+    "id": 36,
+    "text": "The greatest wealth is to live content with little.",
+    "author": "Plato",
+    "entryDate": -2141459440
+  },
+  {
+    "id": 37,
+    "text": "In this life we cannot do great things. We can only do small things with great love.",
+    "author": "Mother Teresa",
+    "entryDate": -660312600
+  },
+  {
+    "id": 38,
+    "text": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "entryDate": -1587114600
+  },
+  {
+    "id": 39,
+    "text": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "entryDate": -315770100
+  },
+  {
+    "id": 40,
+    "text": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius",
+    "entryDate": -2003407500
+  },
+  {
+    "id": 41,
+    "text": "May you live every day of your life.",
+    "author": 1,
+    "entryDate": -2235898800
+  },
+  {
+    "id": 42,
+    "text": "Life itself is the most wonderful fairy tale.",
+    "author": "Hans Christian Andersen",
+    "entryDate": -1843545000
+  },
+  {
+    "id": 43,
+    "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+    "author": "Buddha",
+    "entryDate": -1459516800
+  },
+  {
+    "id": 44,
+    "text": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+    "author": "Walt Whitman",
+    "entryDate": -1688734200
+  },
+  {
+    "id": 45,
+    "text": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+    "author": "Plato",
+    "entryDate": -2059920900
+  },
+  {
+    "id": 46,
+    "text": "Whoever is happy will make others happy too.",
+    "author": "Anne Frank",
+    "entryDate": -1773676800
+  },
+  {
+    "id": 47,
+    "text": "When I was 5 years old, my mother always told me that happiness was the key to life.",
+    "author": "John Lennon",
+    "entryDate": -890942100
+  },
+  {
+    "id": 48,
+    "text": "The two most important days in your life are the day you are born and the day you find out why.",
+    "author": "Mark Twain",
+    "entryDate": -2991945000
+  },
+  {
+    "id": 49,
+    "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin",
+    "entryDate": -2401315200
+  },
+  {
+    "id": 50,
+    "text": "It is never too late to be what you might have been.",
+    "author": "George Eliot",
+    "entryDate": -1302956400
+  }
+]
