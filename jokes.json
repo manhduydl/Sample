@@ -1,0 +1,602 @@
+[
+   {
+      "id":1,
+      "setup":"Why did the scarecrow win an award?",
+      "punchline":"He was outstanding in his field.",
+      "entryDate":"2021-02-05T12:00:00Z"
+   },
+   {
+      "id":2,
+      "setup":"Why don't eggs tell jokes?",
+      "punchline":"They’d crack each other up.",
+      "entryDate":"2021-02-20T12:00:00Z"
+   },
+   {
+      "id":3,
+      "setup":"What do you call fake spaghetti?",
+      "punchline":"An impasta.",
+      "entryDate":"2021-03-05T12:00:00Z"
+   },
+   {
+      "id":4,
+      "setup":"Why did the bicycle fall over?",
+      "punchline":"It was two-tired.",
+      "entryDate":"2021-03-20T12:00:00Z"
+   },
+   {
+      "id":5,
+      "setup":"What do you call cheese that isn't yours?",
+      "punchline":"Nacho cheese.",
+      "entryDate":"2021-04-05T12:00:00Z"
+   },
+   {
+      "id":6,
+      "setup":"Why couldn't the pony sing a lullaby?",
+      "punchline":"She was a little hoarse.",
+      "entryDate":"2021-04-20T12:00:00Z"
+   },
+   {
+      "id":7,
+      "setup":"What do you call a belt made of watches?",
+      "punchline":"A waist of time.",
+      "entryDate":"2021-05-05T12:00:00Z"
+   },
+   {
+      "id":8,
+      "setup":"Why was the math book sad?",
+      "punchline":"It had too many problems.",
+      "entryDate":"2021-05-20T12:00:00Z"
+   },
+   {
+      "id":9,
+      "setup":"What do you call a bear with no teeth?",
+      "punchline":"A gummy bear.",
+      "entryDate":"2021-06-05T12:00:00Z"
+   },
+   {
+      "id":10,
+      "setup":"Why did the golfer bring two pairs of pants?",
+      "punchline":"In case he got a hole in one.",
+      "entryDate":"2021-06-20T12:00:00Z"
+   },
+   {
+      "id":11,
+      "setup":"What do clouds wear under their shorts?",
+      "punchline":"Thunderpants.",
+      "entryDate":"2021-07-05T12:00:00Z"
+   },
+   {
+      "id":12,
+      "setup":"Why do seagulls fly over the ocean?",
+      "punchline":"Because if they flew over the bay, they'd be bagels.",
+      "entryDate":"2021-07-20T12:00:00Z"
+   },
+   {
+      "id":13,
+      "setup":"What do you call a snowman with a six-pack?",
+      "punchline":"An abdominal snowman.",
+      "entryDate":"2021-08-05T12:00:00Z"
+   },
+   {
+      "id":14,
+      "setup":"Why did the cookie go to the doctor?",
+      "punchline":"It felt crumby.",
+      "entryDate":"2021-08-20T12:00:00Z"
+   },
+   {
+      "id":15,
+      "setup":"What do you call a cow with two legs?",
+      "punchline":"Lean beef.",
+      "entryDate":"2021-09-05T12:00:00Z"
+   },
+   {
+      "id":16,
+      "setup":"What do you call a chicken staring at lettuce?",
+      "punchline":"A chicken sees a salad.",
+      "entryDate":"2021-09-20T12:00:00Z"
+   },
+   {
+      "id":17,
+      "setup":"Why did the tomato blush?",
+      "punchline":"It saw the salad dressing.",
+      "entryDate":"2021-10-05T12:00:00Z"
+   },
+   {
+      "id":18,
+      "setup":"What do you call an alligator in a vest?",
+      "punchline":"An investigator.",
+      "entryDate":"2021-10-20T12:00:00Z"
+   },
+   {
+      "id":19,
+      "setup":"Why did the student eat his homework?",
+      "punchline":"The teacher said it was a piece of cake.",
+      "entryDate":"2021-11-05T12:00:00Z"
+   },
+   {
+      "id":20,
+      "setup":"What do you call a group of musical whales?",
+      "punchline":"An orca-stra.",
+      "entryDate":"2021-11-20T12:00:00Z"
+   },
+   {
+      "id":21,
+      "setup":"Why don't skeletons fight each other?",
+      "punchline":"They don’t have the guts.",
+      "entryDate":"2022-01-05T12:00:00Z"
+   },
+   {
+      "id":22,
+      "setup":"What do you call a fish that wears a bowtie?",
+      "punchline":"Sofishticated.",
+      "entryDate":"2022-01-20T12:00:00Z"
+   },
+   {
+      "id":23,
+      "setup":"What do you call a sleeping bull?",
+      "punchline":"A bulldozer.",
+      "entryDate":"2022-02-05T12:00:00Z"
+   },
+   {
+      "id":24,
+      "setup":"Why do bees have sticky hair?",
+      "punchline":"They use honeycombs.",
+      "entryDate":"2022-02-20T12:00:00Z"
+   },
+   {
+      "id":25,
+      "setup":"What do you call a knight who is afraid to fight?",
+      "punchline":"Sir Render.",
+      "entryDate":"2022-03-05T12:00:00Z"
+   },
+   {
+      "id":26,
+      "setup":"Why did the coffee file a police report?",
+      "punchline":"It got mugged.",
+      "entryDate":"2022-03-20T12:00:00Z"
+   },
+   {
+      "id":27,
+      "setup":"What do you call a dog magician?",
+      "punchline":"A labra-cadabra-dor.",
+      "entryDate":"2022-04-05T12:00:00Z"
+   },
+   {
+      "id":28,
+      "setup":"What did one wall say to the other?",
+      "punchline":"I’ll meet you at the corner.",
+      "entryDate":"2022-04-20T12:00:00Z"
+   },
+   {
+      "id":29,
+      "setup":"Why did the clock get kicked out of the library?",
+      "punchline":"It tock-ed too much.",
+      "entryDate":"2022-05-05T12:00:00Z"
+   },
+   {
+      "id":30,
+      "setup":"What do you call a tree that fits in your hand?",
+      "punchline":"A palm tree.",
+      "entryDate":"2022-05-20T12:00:00Z"
+   },
+   {
+      "id":31,
+      "setup":"Why did the teacher wear sunglasses?",
+      "punchline":"Because her students were so bright.",
+      "entryDate":"2022-06-05T12:00:00Z"
+   },
+   {
+      "id":32,
+      "setup":"Why did the duck become a baker?",
+      "punchline":"He was good at making quack-ers.",
+      "entryDate":"2022-06-20T12:00:00Z"
+   },
+   {
+      "id":33,
+      "setup":"What do you call a dinosaur that crashes his car?",
+      "punchline":"Tyranno-saurus wrecks.",
+      "entryDate":"2022-07-05T12:00:00Z"
+   },
+   {
+      "id":34,
+      "setup":"What do you call a boomerang that doesn't come back?",
+      "punchline":"A stick.",
+      "entryDate":"2022-07-20T12:00:00Z"
+   },
+   {
+      "id":35,
+      "setup":"What do you call a lazy kangaroo?",
+      "punchline":"A pouch potato.",
+      "entryDate":"2022-08-05T12:00:00Z"
+   },
+   {
+      "id":36,
+      "setup":"Why did the music teacher need a ladder?",
+      "punchline":"To reach the high notes.",
+      "entryDate":"2022-08-20T12:00:00Z"
+   },
+   {
+      "id":37,
+      "setup":"Why was the broom late?",
+      "punchline":"It overswept.",
+      "entryDate":"2022-09-05T12:00:00Z"
+   },
+   {
+      "id":38,
+      "setup":"What do you call a train carrying bubblegum?",
+      "punchline":"A chew-chew train.",
+      "entryDate":"2022-09-20T12:00:00Z"
+   },
+   {
+      "id":39,
+      "setup":"Why do bananas never feel lonely?",
+      "punchline":"They hang out in bunches.",
+      "entryDate":"2022-10-05T12:00:00Z"
+   },
+   {
+      "id":40,
+      "setup":"What do you call a pig that does karate?",
+      "punchline":"A pork chop.",
+      "entryDate":"2022-10-20T12:00:00Z"
+   },
+   {
+      "id":41,
+      "setup":"Why did the boy stare at the orange juice?",
+      "punchline":"It said concentrate.",
+      "entryDate":"2023-01-05T12:00:00Z"
+   },
+   {
+      "id":42,
+      "setup":"What do you call a fly without wings?",
+      "punchline":"A walk.",
+      "entryDate":"2023-01-20T12:00:00Z"
+   },
+   {
+      "id":43,
+      "setup":"What do you call a fruit that’s always sad?",
+      "punchline":"A blue-berry.",
+      "entryDate":"2023-02-05T12:00:00Z"
+   },
+   {
+      "id":44,
+      "setup":"Why did the computer show up at work late?",
+      "punchline":"It had a hard drive.",
+      "entryDate":"2023-02-20T12:00:00Z"
+   },
+   {
+      "id":45,
+      "setup":"What do you call a can opener that doesn't work?",
+      "punchline":"A can’t opener.",
+      "entryDate":"2023-03-05T12:00:00Z"
+   },
+   {
+      "id":46,
+      "setup":"Why did the cookie go to the gym?",
+      "punchline":"To get a little crunch.",
+      "entryDate":"2023-03-20T12:00:00Z"
+   },
+   {
+      "id":47,
+      "setup":"What do you call a happy cowboy?",
+      "punchline":"A jolly rancher.",
+      "entryDate":"2023-04-05T12:00:00Z"
+   },
+   {
+      "id":48,
+      "setup":"Why did the math teacher break up with the calculator?",
+      "punchline":"She felt he was too divisive.",
+      "entryDate":"2023-04-20T12:00:00Z"
+   },
+   {
+      "id":49,
+      "setup":"What do you call a star that needs glasses?",
+      "punchline":"A spec-tacular.",
+      "entryDate":"2023-05-05T12:00:00Z"
+   },
+   {
+      "id":50,
+      "setup":"What do you call a sheep covered in chocolate?",
+      "punchline":"A candy baa.",
+      "entryDate":"2023-05-20T12:00:00Z"
+   },
+   {
+      "id":51,
+      "setup":"Why did the kid throw butter out the window?",
+      "punchline":"To see a butterfly.",
+      "entryDate":"2023-06-05T12:00:00Z"
+   },
+   {
+      "id":52,
+      "setup":"What do you call a cat that piles up?",
+      "punchline":"A stack-at.",
+      "entryDate":"2023-06-20T12:00:00Z"
+   },
+   {
+      "id":53,
+      "setup":"Why did the dog sit in the shade?",
+      "punchline":"He didn’t want to be a hot dog.",
+      "entryDate":"2023-07-05T12:00:00Z"
+   },
+   {
+      "id":54,
+      "setup":"What do you call a cat that can fix anything?",
+      "punchline":"A purr-fessional.",
+      "entryDate":"2023-07-20T12:00:00Z"
+   },
+   {
+      "id":55,
+      "setup":"What did the ocean say to the shore?",
+      "punchline":"Nothing, it just waved.",
+      "entryDate":"2023-08-05T12:00:00Z"
+   },
+   {
+      "id":56,
+      "setup":"Why did the paper get arrested?",
+      "punchline":"It was tearing up the town.",
+      "entryDate":"2023-08-20T12:00:00Z"
+   },
+   {
+      "id":57,
+      "setup":"What do you call a fast sandwich?",
+      "punchline":"A quick snack.",
+      "entryDate":"2023-09-05T12:00:00Z"
+   },
+   {
+      "id":58,
+      "setup":"Why did the student bring a ladder to school?",
+      "punchline":"He was going to high school.",
+      "entryDate":"2023-09-20T12:00:00Z"
+   },
+   {
+      "id":59,
+      "setup":"What do you call a sleeping computer?",
+      "punchline":"A nap-top.",
+      "entryDate":"2023-10-05T12:00:00Z"
+   },
+   {
+      "id":60,
+      "setup":"Why was the belt arrested?",
+      "punchline":"It held up a pair of pants.",
+      "entryDate":"2023-10-20T12:00:00Z"
+   },
+   {
+      "id":61,
+      "setup":"What do you call a farm that makes bad jokes?",
+      "punchline":"Corn-y.",
+      "entryDate":"2024-01-05T12:00:00Z"
+   },
+   {
+      "id":62,
+      "setup":"Why did the fish get bad grades?",
+      "punchline":"It was below sea level.",
+      "entryDate":"2024-01-20T12:00:00Z"
+   },
+   {
+      "id":63,
+      "setup":"What do you call a pile of kittens?",
+      "punchline":"A meow-tain.",
+      "entryDate":"2024-02-05T12:00:00Z"
+   },
+   {
+      "id":64,
+      "setup":"What do you call a horse that lives next door?",
+      "punchline":"A neigh-bor.",
+      "entryDate":"2024-02-20T12:00:00Z"
+   },
+   {
+      "id":65,
+      "setup":"Why did the chicken join a band?",
+      "punchline":"It had the drumsticks.",
+      "entryDate":"2024-03-05T12:00:00Z"
+   },
+   {
+      "id":66,
+      "setup":"What do you call a frog that tells the truth?",
+      "punchline":"Honest-toad.",
+      "entryDate":"2024-03-20T12:00:00Z"
+   },
+   {
+      "id":67,
+      "setup":"Why did the cow go to space?",
+      "punchline":"To see the moooon.",
+      "entryDate":"2024-04-05T12:00:00Z"
+   },
+   {
+      "id":68,
+      "setup":"What do you call a shoe made of banana?",
+      "punchline":"A slipper.",
+      "entryDate":"2024-04-20T12:00:00Z"
+   },
+   {
+      "id":69,
+      "setup":"What do you call a dinosaur with an extensive vocabulary?",
+      "punchline":"A thesaurus.",
+      "entryDate":"2024-05-05T12:00:00Z"
+   },
+   {
+      "id":70,
+      "setup":"What do you call a snowman tantrum?",
+      "punchline":"A meltdown.",
+      "entryDate":"2024-05-20T12:00:00Z"
+   },
+   {
+      "id":71,
+      "setup":"Why do trees seem suspicious?",
+      "punchline":"They’re always shady.",
+      "entryDate":"2024-06-05T12:00:00Z"
+   },
+   {
+      "id":72,
+      "setup":"What do you call a broken pencil?",
+      "punchline":"Pointless.",
+      "entryDate":"2024-06-20T12:00:00Z"
+   },
+   {
+      "id":73,
+      "setup":"What do you call a cat that lives in an igloo?",
+      "punchline":"An eskimeow.",
+      "entryDate":"2024-07-05T12:00:00Z"
+   },
+   {
+      "id":74,
+      "setup":"Why did the stadium get hot after the game?",
+      "punchline":"All the fans left.",
+      "entryDate":"2024-07-20T12:00:00Z"
+   },
+   {
+      "id":75,
+      "setup":"What do you call a detective owl?",
+      "punchline":"Sherlock Hoots.",
+      "entryDate":"2024-08-05T12:00:00Z"
+   },
+   {
+      "id":76,
+      "setup":"Why did the computer get cold?",
+      "punchline":"It left its Windows open.",
+      "entryDate":"2024-08-20T12:00:00Z"
+   },
+   {
+      "id":77,
+      "setup":"What do you call a factory that sells decent products?",
+      "punchline":"A satis-factory.",
+      "entryDate":"2024-09-05T12:00:00Z"
+   },
+   {
+      "id":78,
+      "setup":"Why was the cell phone wearing glasses?",
+      "punchline":"It lost its contacts.",
+      "entryDate":"2024-09-20T12:00:00Z"
+   },
+   {
+      "id":79,
+      "setup":"What do you call a clever fish?",
+      "punchline":"A brain-sturgeon.",
+      "entryDate":"2024-10-05T12:00:00Z"
+   },
+   {
+      "id":80,
+      "setup":"Why do golfers hate cake?",
+      "punchline":"They might get a slice.",
+      "entryDate":"2024-10-20T12:00:00Z"
+   },
+   {
+      "id":81,
+      "setup":"What do you call a vacuum that laughs?",
+      "punchline":"A giggle sucker.",
+      "entryDate":"2025-01-05T12:00:00Z"
+   },
+   {
+      "id":82,
+      "setup":"Why did the book go to therapy?",
+      "punchline":"It had too many issues.",
+      "entryDate":"2025-01-20T12:00:00Z"
+   },
+   {
+      "id":83,
+      "setup":"Why did the calendar apply for a job?",
+      "punchline":"It wanted to make a date-abase.",
+      "entryDate":"2025-02-05T12:00:00Z"
+   },
+   {
+      "id":84,
+      "setup":"What do you call a chatty pastry?",
+      "punchline":"A talk-o.",
+      "entryDate":"2025-02-20T12:00:00Z"
+   },
+   {
+      "id":85,
+      "setup":"Why did the kid bring string to school?",
+      "punchline":"For tie-ducation.",
+      "entryDate":"2025-03-05T12:00:00Z"
+   },
+   {
+      "id":86,
+      "setup":"Why did the student cross the playground?",
+      "punchline":"To get to the other slide.",
+      "entryDate":"2025-03-20T12:00:00Z"
+   },
+   {
+      "id":87,
+      "setup":"What do you call a dog that loves books?",
+      "punchline":"A novel retriever.",
+      "entryDate":"2025-04-05T12:00:00Z"
+   },
+   {
+      "id":88,
+      "setup":"Why did the database administrator leave the party?",
+      "punchline":"There was no connection.",
+      "entryDate":"2025-04-20T12:00:00Z"
+   },
+   {
+      "id":89,
+      "setup":"What do you call a bear with no teeth?",
+      "punchline":"A gummy bear.",
+      "entryDate":"2025-05-05T12:00:00Z"
+   },
+   {
+      "id":90,
+      "setup":"Why did the laptop go to the doctor?",
+      "punchline":"It had a virus.",
+      "entryDate":"2025-05-20T12:00:00Z"
+   },
+   {
+      "id":91,
+      "setup":"What do you call a bear who likes the rain?",
+      "punchline":"A drizzly bear.",
+      "entryDate":"2025-06-05T12:00:00Z"
+   },
+   {
+      "id":92,
+      "setup":"Why do cows love telling jokes?",
+      "punchline":"They’re udderly hilarious.",
+      "entryDate":"2025-06-20T12:00:00Z"
+   },
+   {
+      "id":93,
+      "setup":"What do you call a postal worker who can sing?",
+      "punchline":"A mail-ody maker.",
+      "entryDate":"2025-07-05T12:00:00Z"
+   },
+   {
+      "id":94,
+      "setup":"Why did the student study in the airplane?",
+      "punchline":"He wanted a higher education.",
+      "entryDate":"2025-07-20T12:00:00Z"
+   },
+   {
+      "id":95,
+      "setup":"What do you call a math teacher who loves gardening?",
+      "punchline":"A square root planter.",
+      "entryDate":"2025-08-05T12:00:00Z"
+   },
+   {
+      "id":96,
+      "setup":"What do you call a nervous javelin thrower?",
+      "punchline":"Shakespeare.",
+      "entryDate":"2025-08-20T12:00:00Z"
+   },
+   {
+      "id":97,
+      "setup":"What do you call a musical chicken?",
+      "punchline":"Elvis Poultry.",
+      "entryDate":"2025-09-05T12:00:00Z"
+   },
+   {
+      "id":98,
+      "setup":"What do you call a pile of kittens?",
+      "punchline":"A meow-tain.",
+      "entryDate":"2025-09-20T12:00:00Z"
+   },
+   {
+      "id":99,
+      "setup":"What do you call a CPU that sings?",
+      "punchline":"A multi-core-ody.",
+      "entryDate":"2026-01-05T12:00:00Z"
+   },
+   {
+      "id":100,
+      "setup":"What do you call fake spaghetti?",
+      "punchline":"An impasta.",
+      "entryDate":"2026-01-08T12:00:00Z"
+   }
+]
